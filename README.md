@@ -28,6 +28,3 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-## Stats
-<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo774&layout=compact" />
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lorenzo774&show_icons=true&theme=radical" />
