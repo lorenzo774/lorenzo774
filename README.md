@@ -3,10 +3,12 @@
 ## Skills
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img align="left" witdh="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" witdh="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" witdh="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
+<img align="left" witdh="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
+<img align="left" witdh="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
+
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
