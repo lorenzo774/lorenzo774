@@ -1,6 +1,6 @@
-# Hi , I'm <i>Lorenzo774</i> 👋😄 💻
+## Hi , I'm <i>lorenzo774</i> 👋😄 💻
 
-## Skills
+### Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo774&layout=compact&exclude_repo=olcEngineTest)](https://github.com/anuraghazra/github-readme-stats)
 
 <img witdh="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />&nbsp;
