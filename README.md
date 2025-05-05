@@ -5,4 +5,3 @@
 # Social
 - dev.to: [dev.to/lorenzo774](https://dev.to/lorenzo774)
 - medium.com: [medium.com/@lorenzoconti774](https://medium.com/@lorenzoconti774)
-- blog: [blog.lorenzo-conti.it](http://blog.lorenzo-conti.it)
